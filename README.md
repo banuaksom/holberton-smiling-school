@@ -6,3 +6,11 @@
 ![Desktop version](https://github.com/banuaksom/holberton-smiling-school/blob/master/images/Desktop/01_SMILESCHOOL_LANDING_desktop@2x.png)
 ![Desktop version](https://github.com/banuaksom/holberton-smiling-school/blob/master/images/Desktop/02_SMILESCHOOL_PRICING_desktop@2x.png)
 ![Desktop version](https://github.com/banuaksom/holberton-smiling-school/blob/master/images/Desktop/03_SMILESCHOOL_PRICING_desktop@2x.png)
+## Tablet version:
+![Desktop version](https://github.com/banuaksom/holberton-smiling-school/blob/master/images/Tablet/01_SMILESCHOOL_LANDING_tablet@2x.png)
+![Desktop version](https://github.com/banuaksom/holberton-smiling-school/blob/master/images/Tablet/02_SMILESCHOOL_LANDING_tablet@2x.png)
+![Desktop version](https://github.com/banuaksom/holberton-smiling-school/blob/master/images/Tablet/03_SMILESCHOOL_LANDING_tablet@2x.png)
+## Mobile version:
+![Desktop version](https://github.com/banuaksom/holberton-smiling-school/blob/master/images/Mobile/01_SMILESCHOOL_LANDING_mobile@2x.png)
+![Desktop version](https://github.com/banuaksom/holberton-smiling-school/blob/master/images/Mobile/02_SMILESCHOOL_LANDING_mobile@2x.png)
+![Desktop version](https://github.com/banuaksom/holberton-smiling-school/blob/master/images/Mobile/03_SMILESCHOOL_LANDING_mobile@2x.png)
